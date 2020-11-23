@@ -1,0 +1,20 @@
+﻿Dato;Descripción;Tipo;Largo;Valores Posibles
+Año;Año al cual corresponde la Ley de Presupuestos Inicial y Vigente y la Ejecución Presupuestaria;Numérico;4;Números
+Mes;Mes del Año al cual se presentan acumulados los Montos de la Ley de Presupuestos Vigente y la Ejecución Presupuestaria;Texto;10;Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre, Diciembre
+Moneda;La Moneda en la cual se expresa la Ley de Presupuestos Inicial y Vigente y la Ejecución Presupuestaria;Texto;7;Pesos,Dólares
+Partida;Código de la Partida;Texto;2;Números
+Nombre Partida;Nombre de la Partida;Texto;80;Caracteres
+Capítulo;Código del Capítulo;Texto;2;Números
+Nombre Capítulo;Nombre del Capítulo;Texto;80;Caracteres
+Programa;Código del Programa;Texto;2;Números
+Nombre Programa;Nombre del Programa;Texto;80;Caracteres
+Subtítulo;Código del Subtítulo;Texto;2;Números
+Nombre Subtítulo;Nombre del Subtítulo;Texto;80;Caracteres
+Ítem;Código del Ítem;Texto;2;Números
+Nombre Ítem;Nombre del Ítem;Texto;80;Caracteres
+Asignación;Código de la Asignación;Texto;3;Números
+Nombre Asignación;Nombre de la Asignación;Texto;250;Caracteres
+Sub-asignación;Código de la Sub-asignación;Texto;3;Números
+Nombre Sub-asignación;Nombre de la Sub-asignación;Texto;80;Caracteres
+Monto Ley Inicial;Monto correspondiente a la Ley de Presupuestos Inicial, anual y expresado en Miles según la moneda;Numérico;15;Números
+Monto Ley Vigente al Mes;Monto correspondiente a la Ley de Presupuestos Vigente, acumulado al Mes que se indica y expresado en Miles según la moneda;Numérico;15;Números
